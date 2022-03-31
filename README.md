@@ -1,4 +1,4 @@
-# Bases de Datos - Grupo 2
+# Bases de Datos - Grupo 4
 ### Proyecto: Farmacias Mis Remedios
 
 <table>
