@@ -14,7 +14,7 @@
     <tbody>
         <tr>
             <td>CHARLES</td>
-            <td>CARLSSON&nbsp;CONTRERAS</td>
+            <td>CARLSSON CONTRERAS</td>
             <td>c.carlssoncontreras@uandresbello.edu</td>
             <td>4</td>
             <td>5</td>
@@ -28,21 +28,21 @@
         </tr>
         <tr>
             <td>MANUEL</td>
-            <td>LINCOÑIR&nbsp;HERNÁNDEZ</td>
+            <td>LINCOÑIR HERNÁNDEZ</td>
             <td>m.lincoirhernndez@uandresbello.edu</td>
             <td>4</td>
             <td>5</td>
         </tr>
         <tr>
             <td>FELIPE</td>
-            <td>MENARES&nbsp;FERNÁNDEZ</td>
+            <td>MENARES FERNÁNDEZ</td>
             <td>f.menaresfernndez@uandresbello.edu</td>
             <td>4</td>
             <td>5</td>
         </tr>
         <tr>
             <td>BENJAMÍN</td>
-            <td>TRONCOSO&nbsp;BELTRÁN</td>
+            <td>TRONCOSO BELTRÁN</td>
             <td>b.troncosobeltrn@uandresbello.edu</td>
             <td>4</td>
             <td>5</td>
